@@ -15,6 +15,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 <br>
 <div align="center">
 <p align="center">
+<br><br>
 <Strong>🔥Activity🔥</Strong><br>
 
 |Activity|Role|Date|
@@ -25,7 +26,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |CORE|소프트웨어 프로젝트 동아리 (AI 팀)|SEP 2023 ~ |
 </p>
 <br>
-
+<br><br>
 <p align="center">
 <Strong>🏆Award🏆</Strong><br>
 
@@ -36,7 +37,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |제2회 빅데이터·AI 활용방안 아이디어 경진대회|우수상|2022.12|
 
 </p>   
-
+<br><br>
 <br>
 
 <p align="center">
