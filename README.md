@@ -21,7 +21,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |Activity|Role|Date|
 |:---:|:---:|:---:|
 |Network Lab|학부 연구생|JUN 2022 ~ NOV 2022|
-|Computer Vision Lab|학석사|JAN 2024 ~ DEC 2026|
+|Computer Vision Lab|학석사|JAN 2023 ~ DEC 2026|
 |CJ Remote Internship|청주시 강 범람 예방을 위한 통합 수치인 위험도 정의 및 예측|SEP 2024 ~ DEC 2024| 
 |CORE|소프트웨어 프로젝트 동아리 (AI 팀)|SEP 2023 ~ |
 |창업팀|공모전 및 창업을 위한 사무실|DEC 2023 ~ |
