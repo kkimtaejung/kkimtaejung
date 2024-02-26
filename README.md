@@ -37,6 +37,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |ICROS 2023 학술대회|학부생 논문상|2023.06|
 |제2회 빅데이터·AI 활용방안 아이디어 경진대회|우수상|2022.12|
 |2023년도 제주 위성데이터 활용 경진대회|우수상(창업팀)|2024.01|
+|유레카 창업경진대회 아이디어혁신상|2024.02|
 
 </p>   
 <br><br>
