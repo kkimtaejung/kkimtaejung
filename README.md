@@ -46,10 +46,11 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 <p align="center">
 <Strong>📖Paper📖</Strong><br>
 
-|Certificate|Grade|Date|
+|Academy|Paper name|Date|
 |:---:|:---:|:---:|
-|ICROS 2023|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|2023.06|
-|CICS 2023|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|2023.10|
+|ICROS 2023 domestic conference|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|2023.06|
+|CICS 2023 domestic conference|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|2023.10|
+|CASE 2024 international conference|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|2024.03|
 
 </p>        
     
