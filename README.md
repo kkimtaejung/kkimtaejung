@@ -1,3 +1,23 @@
+<p align="center">
+    <Strong>☁️blog☁️</Strong><br><br>
+    <a href="https://input-thinking-output.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <br><br>
+<Strong>📧Email📧</Strong><br>flejdkflel@naver.com<br>
+</p>
+<br>
+<p align="center">
+<Strong>🏫University🏫</Strong><br><br>
+Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ FEB  2024</em>
+<br><br>
+<Strong>🏫Laboratory🏫</Strong><br><br>
+Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN  2024 ~ DEC  2026</em>
+</p>   
+<br>
+<div align="center">
+<p align="center">
+<br><br>
+<Strong>🔥Activity🔥</Strong><br>
+
 |Activity|Role|Date|
 |:---:|:---:|:---:|
 |Network Lab|학부 인턴|JUN 2022 ~ NOV 2022|
