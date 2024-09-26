@@ -43,7 +43,8 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|국내특허|2023.10|
 |2023년도 제주 위성데이터 활용 경진대회|우수상(창업팀)|2024.01|
 |유레카 창업경진대회 아이디어혁신상|장려상|2024.02|
-
+|경북s.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <br><br>
 <Strong>📧Email📧</Strong><br>flejdkflel@naver.com<br>
 </p>
 <br>
