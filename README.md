@@ -58,7 +58,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |CICS 2023 domestic conference|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.10|
 |CASE 2024 international conference|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|1st author|2024.03|
 |ICROS 2024 domestic journal|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
-|Photonics international journal|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
+|Photonics 2024 international journal|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
 
 </p>        
 
