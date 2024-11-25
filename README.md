@@ -62,4 +62,4 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |Photonics international journal|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
 
 </p>        
-[[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flejdkflel)](https://solved.ac/flejdkflel/)](https://solved.ac/profile/flejdkflel)
+[[![Solved.ac Profile][(http://mazassumnida.wtf/api/v2/generate_badge?boj=flejdkflel)](https://solved.ac/flejdkflel/)](https://solved.ac/profile/flejdkflel)](https://solved.ac/profile/flejdkflel)
