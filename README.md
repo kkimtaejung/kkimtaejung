@@ -45,6 +45,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |유레카 창업경진대회 아이디어혁신상|장려상|2024.02|
 |경북 AI기반 콘텐츠 사업화 아이디어|우수상|2024.09|
 |ICT 챌린지 2024|정보통신기획평가원 원장상|2024.09|
+|충북대학교 콜로키움 2024 Conference|산업인공지능연구센터상|2024.11|
 
 </p>   
 <br><br>
