@@ -18,11 +18,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 <br><br>
 <Strong>🔥Activity🔥</Strong><br>
 
-<div style="width: 100%; background-color: lightgray;">
-  <div style="width: 41%; background-color: green; text-align: center; color: white;">
-    41%
-  </div>
-</div>
+[##########----------] 50%
 
 |Activity|Role|Date|
 |:---:|:---:|:---:|
