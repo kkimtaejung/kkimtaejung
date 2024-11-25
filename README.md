@@ -28,8 +28,12 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |국가과제|AI 생성형 알고리즘을 통한 Moire 3D 형상 복원|NOV 2022 ~ JUN 2024|
 |용역과제|AI 티칭 알고리즘을 통한 자동 Segmentation 툴 개발|JUL 2024 ~ |
 |대학원생 창업동아리|커스터마이징 가능한 AI 비서와 로봇 제어 플랫폼을 통한 생태계 조성 [NOVAIS 팀]|NOV 2024 ~ DEC 2025|
+<div style="width: 100%; background-color: lightgray;">
+  <div style="width: 41%; background-color: green; text-align: center; color: white;">
+    41%
+  </div>
+</div>
 </p>
-<ProgressBar v-bind:page="0"></ProgressBar>
 <br>
 <br><br>
 <p align="center">
