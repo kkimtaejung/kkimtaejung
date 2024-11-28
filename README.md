@@ -18,7 +18,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 <br><br>
 <Strong>🔥Activity🔥</Strong><br>
 
-|Activity|Role|Date|
+|Group|Title|Duration|
 |:---:|:---:|:---:|
 |Network Lab|학부 인턴|JUL 2022 ~ NOV 2022|
 |ROBOTICS Lab|학석사 및 학부 인턴|NOV 2022 ~ DEC 2026|
@@ -34,7 +34,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 <p align="center">
 <Strong>🏆Award🏆</Strong><br>
 
-|Award|Prize|Date|
+|Title|Award|Date|
 |:---:|:---:|:---:|
 |충북대학교 창업 엑셀레이션 (식습관 분석 서비스)|우수상|2022.09|
 |제2회 빅데이터·AI 활용방안 아이디어 경진대회|우수상|2022.12|
