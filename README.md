@@ -67,7 +67,6 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
     
 |Patent name|Type|Date|
 |:---:|:---:|:---:|
-|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|국내특허출원|2023.08|
-|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|국내특허출원|2023.10|
+|모아레 패턴을 이용한 PCB에 실장된 소자 높이 측정 장치 및 방법|국내 특허 출원|2023.11|
 
 </p>
