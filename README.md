@@ -2,7 +2,7 @@
     <Strong>☁️blog☁️</Strong><br><br>
     <a href="https://kkimtaejung.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     <br><br>
-<Strong>📧Email📧</Strong><br>flejdkflel@naver.com<br>
+<Strong>📧Email📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
 </p>
 <br>
 <p align="center">
