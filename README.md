@@ -26,7 +26,8 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |CJ Remote Internship|청주시 강 범람 예방을 위한 통합 수치인 위험도 정의 및 예측|SEP 2023 ~ DEC 2023| 
 |CORE|소프트웨어 프로젝트 동아리 (AI 팀)|SEP 2023 ~ JAN 2024|
 |공모전 소모임|공모전 및 대회를 위한 사무실|DEC 2023 ~ MAR 2024|
-|용역과제|AI 티칭 알고리즘을 통한 자동 Segmentation 툴 개발|JUL 2024 ~ DEC 2024|
+|용역과제 (1차시기)|AI Teaching Tool 을 위한 PCB 소자 검출 네트워크 개발|JUL 2024 ~ DEC 2024|
+|용역과제 (2차시기)|AI Teaching Tool 을 위한 MFC 기반의 UI 개발|JAN 2025 ~ JUN 2025|
 |대학원생 창업|커스터마이징 가능한 AI 비서와 로봇 제어 플랫폼을 통한 생태계 조성 [회사명 NOVAIS]|NOV 2024 ~ DEC 2025|
 </p>
 <br>
