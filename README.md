@@ -60,6 +60,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |CASE 2024 international conference|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|1st author|2024.03|
 |ICROS 2024 domestic journal|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
 |Photonics 2024 international journal|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
+|IEEE ACCESS Jouranl|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
 
 </p>        
 
