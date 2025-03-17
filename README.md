@@ -20,7 +20,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 
 |Group|Title|Duration|
 |:---:|:---:|:---:|
-|대학생 창업 (창업 엑셀러레이션)|딥러닝 기반 촬영을 통한 자동 식습관 분석 서비스 (FOODOC)|MAR 2022 ~ DEC 2022|
+|창업 엑셀러레이션|딥러닝 기반 촬영을 통한 자동 식습관 분석 서비스 (FOODOC)|MAR 2022 ~ DEC 2022|
 |Network Lab|학부 인턴|JUL 2022 ~ NOV 2022|
 |ROBOTICS Lab|학석사 및 학부 인턴|NOV 2022 ~ DEC 2026|
 |국가과제|AI 생성형 알고리즘을 통한 Moire 3D 형상 복원|NOV 2022 ~ JUN 2024|
@@ -29,7 +29,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 |공모전 소모임|공모전 및 대회를 위한 사무실|DEC 2023 ~ MAR 2024|
 |용역과제 (1차시기)|AI Teaching Tool 을 위한 PCB 소자 검출 네트워크 개발|JUL 2024 ~ DEC 2024|
 |용역과제 (2차시기)|AI Teaching Tool 을 위한 MFC 기반의 UI 개발|JAN 2025 ~ JUN 2025|
-|대학원생 창업동아리|NOVAIS 동아리|NOV 2024 ~ DEC 2025|
+|대학원생 창업동아리|NOVAIS 동아리 창설|NOV 2024 ~ DEC 2025|
 |2025 아이코어 창업 지원사업|인간의 해마를 모방하여 망각과 재생을 통한 장기기억 반려로봇 HAeMA[회사명 NOVAIS]|MAR 2025 ~|
 </p>
 <br>
