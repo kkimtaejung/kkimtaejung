@@ -48,7 +48,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 |유레카 창업경진대회 아이디어혁신상|장려상|2024.02|
 |경북 AI기반 콘텐츠 사업화 아이디어|우수상|2024.09|
 |ICT 챌린지 2024|정보통신기획평가원 원장상|2024.09|
-|충북대학교 콜로키움 2024 Conference|최우수상|2024.11|
+|충북대학교 콜로키움 2024 컨퍼런스|최우수상|2024.11|
 
 </p>   
 <br><br>
@@ -59,12 +59,12 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 
 |Academy|Paper name|Author|Date|
 |:---:|:---:|:---:|:---:|
-|ICROS 2023 domestic conference|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.06|
-|CICS 2023 domestic conference|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.10|
-|CASE 2024 international conference|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|1st author|2024.03|
-|ICROS 2024 domestic journal|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
-|Photonics 2024 international journal|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
-|IEEE ACCESS international jouranl|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
+|ICROS 2023 국내 컨퍼런스|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.06|
+|CICS 2023 국내 컨퍼런스|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.10|
+|CASE 2024 국제 컨퍼런스|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|1st author|2024.03|
+|ICROS 2024 국내 저널|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
+|Photonics 2024 국제 저널 (SCIE, IF:1.9, JCR:38.4%)|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
+|IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
 
 </p>        
 
