@@ -1,6 +1,6 @@
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
-    <a href="[https://kkimtaejung.github.io](https://input-thinking-output.tistory.com/)" target="_blank"><img src="[https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white](https://icons8.kr/icon/111049/t)"/></a>
+    <a href="[https://kkimtaejung.github.io](https://input-thinking-output.tistory.com/)" target="_blank"></a>
     <br><br>
 <Strong>📧Email📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
 </p>
