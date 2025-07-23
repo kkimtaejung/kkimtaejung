@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>☁️ Blog ☁️</strong><br><br>
+  <strong>☁️ Study Blog ☁️</strong><br><br>
   <a href="https://input-thinking-output.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/>
   </a>
@@ -9,10 +9,10 @@
 <br>
 <p align="center">
 <Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ FEB  2024</em>
+Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ AUG  2023</em>
 <br><br>
 <Strong>🏫Laboratory🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN  2024 ~ DEC  2026</em>
+Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree &nbsp;   MAR  2024 ~ AUG  2025</em>
 </p>   
 <br>
 <div align="center">
