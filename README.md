@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <strong>☁️ Blog ☁️</strong><br><br>
   <a href="https://input-thinking-output.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/>
@@ -7,7 +7,7 @@
 <Strong>📧Email📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
 </p>
 <br>
-<p align="left">
+<p align="center">
 <Strong>🏫University🏫</Strong><br><br>
 Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ FEB  2024</em>
 <br><br>
@@ -15,7 +15,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN  2024 ~ DEC  2026</em>
 </p>   
 <br>
-<div align="left">
+<div align="center">
 <p align="left">
 <br><br>
 <Strong>🔥Activity🔥</Strong><br>
