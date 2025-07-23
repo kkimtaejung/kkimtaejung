@@ -21,7 +21,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 <Strong>🔥Activity🔥</Strong><br>
 
 |Group|Title|Duration|
-|:---:|:---:|:---:|
+|:---:|:--:|:----:|
 |창업 엑셀러레이션|딥러닝 기반 촬영을 통한 자동 식습관 분석 서비스 (FOODOC)|2022.03 ~ 2022.12|
 |Network Lab|학부 인턴|2022.07 ~ 2022.11|
 |ROBOTICS Lab|학석사 및 학부 인턴|2022.11 ~ 2025.08|
