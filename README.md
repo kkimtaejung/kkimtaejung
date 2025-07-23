@@ -9,10 +9,10 @@
 <br>
 <p align="center">
 <Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ AUG  2023</em>
+Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   2020.03 ~ 2023.08</em>
 <br><br>
 <Strong>🏫Laboratory🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree &nbsp;   MAR  2024 ~ AUG  2025</em>
+Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree &nbsp;   2024.03 ~ 2025.08</em>
 </p>   
 <br>
 <div align="center">
@@ -22,17 +22,17 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 
 |Group|Title|Duration|
 |:---:|:---:|:---:|
-|창업 엑셀러레이션|딥러닝 기반 촬영을 통한 자동 식습관 분석 서비스 (FOODOC)|MAR 2022 ~ DEC 2022|
-|Network Lab|학부 인턴|JUL 2022 ~ NOV 2022|
-|ROBOTICS Lab|학석사 및 학부 인턴|NOV 2022 ~ DEC 2026|
-|국가과제|AI 생성형 알고리즘을 통한 Moire 3D 형상 복원|NOV 2022 ~ JUN 2024|
-|CJ Remote Internship|청주시 강 범람 예방을 위한 통합 수치인 위험도 정의 및 예측|SEP 2023 ~ DEC 2023| 
-|CORE|소프트웨어 프로젝트 동아리 (AI 팀)|SEP 2023 ~ JAN 2024|
-|공모전 소모임|공모전 및 대회를 위한 사무실|DEC 2023 ~ MAR 2024|
-|용역과제 (1차시기)|AI Teaching Tool 을 위한 PCB 소자 검출 네트워크 개발|JUL 2024 ~ DEC 2024|
-|용역과제 (2차시기)|AI Teaching Tool 을 위한 MFC 기반의 UI 개발|JAN 2025 ~ JUN 2025|
-|대학원생 창업동아리|NOVAIS 동아리 창설|NOV 2024 ~ DEC 2025|
-|2025 아이코어 창업 지원사업|인간의 해마를 모방하여 망각과 재생을 통한 장기기억 반려로봇 HAeMA[회사명 NOVAIS]|MAR 2025 ~|
+|창업 엑셀러레이션|딥러닝 기반 촬영을 통한 자동 식습관 분석 서비스 (FOODOC)|2022.03 ~ 2022.12|
+|Network Lab|학부 인턴|2022.07 ~ 2022.11|
+|ROBOTICS Lab|학석사 및 학부 인턴|2022.11 ~ 2025.08|
+|국가과제|AI 생성형 알고리즘을 통한 Moire 3D 형상 복원|2022.11 ~ 2024.06|
+|CJ Remote Internship|청주시 강 범람 예방을 위한 통합 수치인 위험도 정의 및 예측|2023.09 ~ 2023.12| 
+|CORE|소프트웨어 프로젝트 동아리 (AI 팀)|2023.09 ~ 2024.01|
+|공모전 소모임|공모전 및 대회를 위한 사무실|2023.12 ~ 2024.03|
+|용역과제 (1차시기)|AI Teaching Tool 을 위한 PCB 소자 검출 네트워크 개발|2024.07 ~ 2024.12|
+|용역과제 (2차시기)|AI Teaching Tool 을 위한 MFC 기반의 UI 개발|2025.01 ~ 2025.06|
+|대학원생 창업동아리|NOVAIS 동아리 창설|2024.10 ~ 2025.03|
+|2025 아이코어 창업 지원사업|인간의 해마를 모방하여 망각과 재생을 통한 장기기억 반려로봇 HAeMA[회사명 NOVAIS]|2025.03 ~ 2025.12|
 </p>
 <br>
 <br><br>
