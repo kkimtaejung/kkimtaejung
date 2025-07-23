@@ -9,10 +9,10 @@
 <br>
 <p align="center">
 <Strong>🏫대학교🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>정보통신공학부 학사 졸업 &nbsp;   2020.03 ~ 2023.08</em>
+충북대학교 정보통신공학부 —  &nbsp; <em> 학사 졸업 &nbsp;   2020.03 ~ 2023.08</em>
 <br><br>
 <Strong>🏫연구실🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS 연구실 지능로봇공학과 AI 컴퓨터 비전 분야 석사 &nbsp;   2024.03 ~ 2025.08</em>
+충북대학교 지능로봇공학과 —  &nbsp; <em>ROBOTICS 연구실 AI 컴퓨터 비전 분야 석사 &nbsp;   2024.03 ~ 2025.08</em>
 </p>   
 <br>
 <div align="center">
