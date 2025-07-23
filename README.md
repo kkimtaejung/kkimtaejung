@@ -1,24 +1,24 @@
 <p align="center">
-  <strong>☁️ Study Blog ☁️</strong><br><br>
+  <strong>☁️ 학습 블로그 ☁️</strong><br><br>
   <a href="https://input-thinking-output.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/>
   </a>
   <br><br>
-<Strong>📧Email📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
+<Strong>📧이메일📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
 </p>
 <br>
 <p align="center">
-<Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   2020.03 ~ 2023.08</em>
+<Strong>🏫대학교🏫</Strong><br><br>
+Chungbuk National University of Korea —  &nbsp; <em>정보통신공학부 학사 졸업 &nbsp;   2020.03 ~ 2023.08</em>
 <br><br>
-<Strong>🏫Laboratory🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree &nbsp;   2024.03 ~ 2025.08</em>
+<Strong>🏫연구실🏫</Strong><br><br>
+Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS 연구실 지능로봇공학과 AI 컴퓨터 비전 분야 석사 &nbsp;   2024.03 ~ 2025.08</em>
 </p>   
 <br>
 <div align="center">
 <p align="left">
 <br><br>
-<Strong>🔥Activity🔥</Strong><br>
+<Strong>🔥대외활동🔥</Strong><br>
 
 |Group|Title|Duration|
 |:---:|:--:|:----:|
@@ -37,7 +37,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 <br>
 <br><br>
 <p align="left">
-<Strong>🏆Award🏆</Strong><br>
+<Strong>🏆수상🏆</Strong><br>
 
 |Title|Award|Date|
 |:---:|:---:|:---:|
@@ -55,7 +55,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 <br>
 
 <p align="left">
-<Strong>📖Paper📖</Strong><br>
+<Strong>📖논문📖</Strong><br>
 
 |Academy|Paper name|Author|Date|
 |:---:|:---:|:---:|:---:|
@@ -69,7 +69,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab Master degree
 </p>        
 
 <p align="left">
-<Strong>🔦Patent🔦</Strong><br>
+<Strong>🔦특허🔦</Strong><br>
     
 |Patent name|Type|Date|
 |:---:|:---:|:---:|
