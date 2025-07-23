@@ -16,7 +16,7 @@
 </p>   
 <br>
 <div align="center">
-<p align="left">
+<p align="center">
 <br><br>
 <Strong>🔥대외활동🔥</Strong><br>
 
@@ -36,7 +36,7 @@
 </p>
 <br>
 <br><br>
-<p align="left">
+<p align="center">
 <Strong>🏆수상🏆</Strong><br>
 
 |Title|Award|Date|
@@ -54,7 +54,7 @@
 <br><br>
 <br>
 
-<p align="left">
+<p align="center">
 <Strong>📖논문📖</Strong><br>
 
 |Academy|Paper name|Author|Date|
@@ -66,9 +66,11 @@
 |Photonics 2024 국제 저널 (SCIE, IF:1.9, JCR:38.4%)|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
 |IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
 
-</p>        
+</p>  
+<br><br>
+<br>
 
-<p align="left">
+<p align="center">
 <Strong>🔦특허🔦</Strong><br>
     
 |Patent name|Type|Date|
