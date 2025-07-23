@@ -1,7 +1,10 @@
 <p align="center">
-    <Strong>☁️blog☁️</Strong><br><br>
-    <a href="[https://kkimtaejung.github.io](https://input-thinking-output.tistory.com/)" target="_blank"></a>
-    <br><br>
+  <strong>☁️ Blog ☁️</strong><br><br>
+  <a href="https://input-thinking-output.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/>
+  </a>
+  <br><br>
+</p>
 <Strong>📧Email📧</Strong><br>ktaejung@chungbuk.ac.kr<br>
 </p>
 <br>
