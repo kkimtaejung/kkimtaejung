@@ -82,3 +82,22 @@
 |반도체 칩의 실장 검사 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|10-2024-0174084|2024.11|
 |인쇄회로기판의 패키지 및 솔더 영역 자동 검출 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|10-2025-0010670|2025.01|
 </p>
+
+url = f"https://api.notion.com/v1/databases/{os.getenv('db')}/query"
+headers = {
+    "Authorization": f"Bearer secret_{os.getenv('auth')}",
+    "Accept": "application/json",
+    "Notion-Version": "2022-02-22",
+}
+
+today = date.today()
+params = {
+    "filter": {
+        "property": "Date",
+        "date": {
+            "after": f"{today.year}-{today.month:02}-01"
+        }
+    }
+}
+
+response = requests.post(url, headers=headers, json=params)
