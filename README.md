@@ -65,6 +65,8 @@
 |ICROS 2024 국내 저널|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
 |Photonics 2024 국제 저널 (SCIE, IF:1.9, JCR:38.4%)|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
 |IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
+|ICROS 2025 국내 컨퍼런스|PCB 영상에서 납땜 영역을 포함한 초소형 부품 탐지를 위한 계층적 방법|김범수, 김태정, 하민호, 박태형|2025.06|
+|ICROS 2025 국내 컨퍼런스|YOLO-HR 고해상도 이미지 학습을 위한 경량화 YOLO 모델|조현호, 김태정, 하민호, 박태형|2025.06|
 
 </p>  
 <br><br>
