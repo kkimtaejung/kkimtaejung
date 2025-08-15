@@ -59,12 +59,12 @@
 
 |Academy|Paper name|Author|Date|
 |:---:|:---:|:---:|:---:|
-|ICROS 2023 국내 컨퍼런스|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.06|
-|CICS 2023 국내 컨퍼런스|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|1st author|2023.10|
-|CASE 2024 국제 컨퍼런스|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|1st author|2024.03|
-|ICROS 2024 국내 저널|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|2nd author|2024.5|
-|Photonics 2024 국제 저널 (SCIE, IF:1.9, JCR:38.4%)|VAE-based 3D Image Restoration Method for PCB Profilometry|2nd author|2024.10|
-|IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|1st author|2025.02|
+|ICROS 2023 국내 컨퍼런스|GAN(적대적 생성 신경망)을 사용한 모아레 패턴의 위상 맵 복원|<Strong>김태정</Strong>, 하민호, 박태형|2023.06|
+|CICS 2023 국내 컨퍼런스|Inpainting(인페인팅)을 사용한 모아레 패턴의 위상 맵 복원|<Strong>김태정</Strong>, 김찬회, 박태형|2023.10|
+|CASE 2024 국제 컨퍼런스|Mask Generation of Inpainting Model for Moire Pattern based 3D Reconstruction|<Strong>김태정</Strong>, 하민호, Saba Arshad, 박태형|2024.03|
+|ICROS 2024 국내 저널|위상 특징을 활용한 딥러닝 기반의 모아레 패턴 복원 방법|김찬회, <Strong>김태정</Strong>, 박태형|2024.5|
+|Photonics 2024 국제 저널 (SCIE, IF:1.9, JCR:38.4%)|VAE-based 3D Image Restoration Method for PCB Profilometry|하민호, Saba Arshad, <Strong>김태정</Strong>, 박태형|2024.10|
+|IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|김태정, 하민호, Saba Arshad, 박태형|2025.02|
 |ICROS 2025 국내 컨퍼런스|PCB 영상에서 납땜 영역을 포함한 초소형 부품 탐지를 위한 계층적 방법|김범수, 김태정, 하민호, 박태형|2025.06|
 |ICROS 2025 국내 컨퍼런스|YOLO-HR 고해상도 이미지 학습을 위한 경량화 YOLO 모델|조현호, 김태정, 하민호, 박태형|2025.06|
 
@@ -77,7 +77,7 @@
     
 |Patent name|Type|Date|
 |:---:|:---:|:---:|
-|모아레 패턴을 이용한 PCB에 실장된 소자 높이 측정 장치 및 방법|국내 특허 출원|2023.11|
-|반도체 칩의 실장 검사 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|2024.11|
-|인쇄회로기판의 패키지 및 솔더 영역 자동 검출 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|2025.01|
+|모아레 패턴을 이용한 PCB에 실장된 소자 높이 측정 장치 및 방법|국내 특허 출원|10-2023-0167470 |2023.11|
+|반도체 칩의 실장 검사 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|10-2024-0174084|2024.11|
+|인쇄회로기판의 패키지 및 솔더 영역 자동 검출 방법 및 이를 수행하기 위한 컴퓨팅 장치|국내 특허 출원|10-2025-0010670|2025.01|
 </p>
