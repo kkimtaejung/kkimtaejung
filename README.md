@@ -68,6 +68,7 @@
 |IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|MIN: Moiré Inpainting Network with Position Adaptive Mask for 3D Height Reconstruction|<Strong>김태정</Strong>, 하민호, Saba Arshad, 박태형|2025.02|
 |ICROS 2025 국내 컨퍼런스|PCB 영상에서 납땜 영역을 포함한 초소형 부품 탐지를 위한 계층적 방법|김범수, <Strong>김태정</Strong>, 하민호, 박태형|2025.06|
 |ICROS 2025 국내 컨퍼런스|YOLO-HR 고해상도 이미지 학습을 위한 경량화 YOLO 모델|조현호, <Strong>김태정</Strong>, 하민호, 박태형|2025.06|
+|IEEE ACCESS 국제 저널(SCIE, IF:3.6, JCR:34.5%)|DIA YOLO: Diffusion based Involution Attention YOLO for Overhead Imagery|<Strong>김태정</Strong>, 박태형|2025.08|
 
 </p>  
 <br><br>
